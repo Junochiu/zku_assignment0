@@ -10,20 +10,20 @@ acquire network endpoints (via infura, alchemy...)
 and execute the deploy scripts specifying the target network in the command.
 
 **2. What is gas? Why is gas optimization such a big focus when building smart contracts?**
-Gas measures the amount of computational effort required to execute psecific operations on chain.
+Gas measures the amount of computational effort required to execute specific operations on chain.
 It is important focus when building smart contracts because gas fee contributes to the transaction fee that people pay when interacting 
 with the deployed smart contracts.
 
 **3. What is a hash? Why do people use hashing to hide information?**
 A hash is a unique fixed length string meant to identify a piece of data. They are created by placing data into a hash function.
-Use hashing to hide information could safe space, and some hashing function will be difficult to reverse which can provide privacy to the content hashed.
+Using hashing to hide information could save space, and some hashing function will be difficult to reverse which can provide privacy to the content hashed.
 
 **4. How would you prove to a colorblind person that two different colored objects are actually of different colors?**
 According to the person's kind of color blind, choose and add a colored filter in front of the two objects.
 If the two color are exactly the same they should look the same after adding another color.
 If after adding the colored filter, the two colors look different, they are different.
 (The above answer will be only valid under the hypothesis that there exist such color filter that the colorblind person
-could see the different after applyed to those objects.)
+could see the difference after applied to those objects.)
 
 ## B. You sure you’re solid with Solidity?
 
